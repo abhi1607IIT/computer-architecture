@@ -1,2 +1,2 @@
-# computer-architecture
-Computer Architecture Assignments as given by IIT Delhi
+# PIPELINE 
+This branch contains the imlementation of full pipeline in computer Architecture
